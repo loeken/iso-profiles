@@ -1,0 +1,34 @@
+##
+## Manjaro Linux default mirrorlist
+## Generated on 2021-09-06 03:31
+##
+## Please use 'pacman-mirrors -f [NUMBER] [NUMBER]' to modify mirrorlist
+## (Use 0 for all mirrors)
+##
+
+## Country : Germany
+Server = https://ftp.halifax.rwth-aachen.de/manjaro/stable/$repo/$arch
+
+## Country : Germany
+Server = https://ftp.gwdg.de/pub/linux/manjaro/stable/$repo/$arch
+
+## Country : Germany
+Server = https://mirror.23media.com/manjaro/stable/$repo/$arch
+
+## Country : Germany
+Server = https://manjaro.re/stable/$repo/$arch
+
+## Country : Germany
+Server = https://mirror.netcologne.de/manjaro/stable/$repo/$arch
+
+## Country : Germany
+Server = https://mirror.atysleaks.org/manjaro/stable/$repo/$arch
+
+## Country : Germany
+Server = https://manjaro.moson.eu/stable/$repo/$arch
+
+## Country : Germany
+Server = https://mirror.alpix.eu/manjaro/stable/$repo/$arch
+
+## Country : Germany
+Server = https://manjaro.moson.org/stable/$repo/$arch
