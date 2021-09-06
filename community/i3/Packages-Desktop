@@ -162,3 +162,6 @@ xdg-user-dirs
 xorg-server
 >extra yay
 zensu
+
+## customized
+>aur visual-studio-code-bin
