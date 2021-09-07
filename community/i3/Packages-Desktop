@@ -164,19 +164,26 @@ xorg-server
 zensu
 
 ## customized
->aur visual-studio-code-bin
 terminator
->aur zsh-theme-powerlevel10k-git
->aur google-chrome 
->aur brave-bin
+#>aur brave-bin
 pulseaudio-bluetooth
 thunar
 xfce4-settings
 rofi
->aur kr-bin
+#aur> kr-bin
 docker
 minikube
 nmap
 iotop
 bwm-ng
 htop
+kubectl
+docker
+docker-compose
+minikube
+polybar
+
+## AUR packages
+visual-studio-code-bin
+zsh-theme-powerlevel10k-git
+google-chrome

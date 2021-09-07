@@ -52,7 +52,14 @@ man-pages
 manjaro-firmware
 manjaro-release
 manjaro-system
-manjaro-zsh-config
+#manjaro-zsh-config
+zsh-autosuggestions
+zsh-syntax-highlighting
+zsh-completions
+zsh-history-substring-search
+zsh
+pkgfile
+nerd-fonts-noto-sans-mono
 mdadm
 memtest86+
 mhwd
