@@ -165,12 +165,10 @@ zensu
 
 ## customized
 terminator
-#>aur brave-bin
 pulseaudio-bluetooth
 thunar
 xfce4-settings
 rofi
-#aur> kr-bin
 docker
 minikube
 nmap
