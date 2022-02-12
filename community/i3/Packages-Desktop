@@ -131,7 +131,6 @@ ttf-dejavu
 >extra ttf-liberation
 >basic ufw
 upower
->extra vertex-maia-themes
 vi
 >extra vibrancy-icons-teal
 viewnior
@@ -182,7 +181,3 @@ docker-compose
 minikube
 polybar
 
-## AUR packages
-zsh-theme-powerlevel10k-git
-google-chrome
-brave-bin
