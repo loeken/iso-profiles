@@ -7,6 +7,7 @@ arandr
 >extra bauh
 >basic i3-default-artwork
 >extra artwork-i3
+autorandr
 autoconf
 automake
 avahi
@@ -182,7 +183,6 @@ minikube
 polybar
 
 ## AUR packages
-visual-studio-code-bin
 zsh-theme-powerlevel10k-git
 google-chrome
 brave-bin
