@@ -4,7 +4,6 @@ alsa-plugins
 alsa-utils
 >extra apparmor
 arandr
->extra bauh
 >basic i3-default-artwork
 >extra artwork-i3
 autorandr
@@ -130,7 +129,6 @@ ttf-dejavu
 >extra ttf-liberation
 >basic ufw
 upower
->extra vertex-maia-themes
 vi
 >extra vibrancy-icons-teal
 viewnior
@@ -181,7 +179,3 @@ docker-compose
 minikube
 polybar
 
-## AUR packages
-zsh-theme-powerlevel10k-git
-google-chrome
-brave-bin
