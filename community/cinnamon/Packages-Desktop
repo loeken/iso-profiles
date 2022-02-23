@@ -124,7 +124,6 @@ pulseaudio-ctl
 pulseaudio-zeroconf
 python2-ptyprocess
 python-ptyprocess
-qt5-styleplugins
 screenfetch
 >extra snapd
 >basic squashfs-tools

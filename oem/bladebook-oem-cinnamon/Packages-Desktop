@@ -115,7 +115,6 @@ pulseaudio-zeroconf
 python2-ptyprocess
 python-ptyprocess
 qt5ct
-qt5-styleplugins
 screenfetch
 >extra subversion
 >extra system-config-printer
