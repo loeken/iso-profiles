@@ -25,3 +25,11 @@ bindkey "^[[H" beginning-of-line
 bindkey "^[[F" end-of-line
 bindkey "^[[3~" delete-char
 bindkey "^[[2~" quoted-insert
+plugins=(zsh-autosuggestions)
+source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.plugin.zsh
+source /usr/share/zsh/plugins/zsh-history-substring-search
+HISTFILE=~/.histfile
+HISTSIZE=1000000
+SAVEHIST=1000000
+setopt beep
+bindkey -e
