@@ -176,4 +176,5 @@ zsh-theme-powerlevel10k
 zsh-autosuggestions
 docker
 nodejs
+minikube
 
