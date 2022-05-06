@@ -163,7 +163,7 @@ dmidecode # optional dependency inxi
 engrampa
 >extra firefox
 # >extra flashplugin
->extra galculator-gtk2
+>extra galculator
 gcolor2
 >extra gimp
 gparted
@@ -171,7 +171,7 @@ gufw
 >extra audacious
 >extra hexchat
 htop
-qpdfview
+qpdf
 inxi
 #>extra libreoffice-still
 #>extra microsoft-office-online-jak
