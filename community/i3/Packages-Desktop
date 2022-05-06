@@ -179,3 +179,5 @@ nodejs
 go
 github-cli
 bitwarden-cli
+jq
+yq
