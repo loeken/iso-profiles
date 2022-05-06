@@ -251,3 +251,18 @@ xiccd # enable color profile settings
 #hsd-git
 #veracrypt
 #cryptoseed
+
+>extra zsh
+terminator
+pulseaudio-bluetooth
+thunar
+xfce4-settings
+rofi
+nmap
+iotop
+bwm-ng
+htop
+kubectl
+polybar
+brave-browser
+code
