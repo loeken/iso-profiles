@@ -277,3 +277,6 @@ bitwarden-cli
 jq
 yq
 yay
+zsh-history-substring-search
+powerlevel10k
+zsh-theme-powerlevel10k
