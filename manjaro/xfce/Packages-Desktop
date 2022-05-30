@@ -166,7 +166,7 @@ engrampa
 # >extra flashplugin
 >extra galculator
 gcolor2
->extra gimp
+>extra gimpnetwork-manager-openvpn
 gparted
 gufw
 >extra audacious
@@ -280,3 +280,6 @@ yay
 zsh-history-substring-search
 powerlevel10k
 zsh-theme-powerlevel10k
+networkmanager-openvpn
+openvpn
+systemd-resolvconf
