@@ -186,3 +186,5 @@ zsh-history-substring-search
 networkmanager-openvpn
 openvpn
 systemd-resolvconf
+patch
+ttf-meslo-nerd-font-powerlevel10k
