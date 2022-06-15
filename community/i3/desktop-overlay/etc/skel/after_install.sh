@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ "$(whoami)" == "loeken" ]; then
+if [ "$(whoami)" == "cryptopian" ]; then
   echo "do not run this as user cryptopian, create a new user, delete cryptopian"
   echo "then rerun this script again from the new users home directory"
   exit 0
