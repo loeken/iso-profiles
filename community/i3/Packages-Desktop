@@ -6,7 +6,6 @@ alsa-utils
 arandr
 >basic i3-default-artwork
 >extra artwork-i3
-autorandr
 autoconf
 automake
 avahi
@@ -32,6 +31,7 @@ flex
 >extra >multilib gcc-multilib
 gcolor2
 #gconf
+>extra gimp
 >extra git
 gnome-keyring
 >extra gparted
@@ -74,6 +74,7 @@ manjaro-browser-settings
 manjaro-hotfixes
 manjaro-i3-settings
 >extra manjaro-printer
+manjaro-ranger-settings
 >extra manjaro-settings-manager-notifier
 markdown_previewer
 >extra matcha-gtk-theme
@@ -99,6 +100,7 @@ ntp
 openresolv
 openssh
 p7zip
+palemoon-bin
 pamac
 patch
 patchutils
@@ -158,7 +160,6 @@ xorg-server
 >extra yay
 zensu
 
-## customized
 terminator
 pulseaudio-bluetooth
 thunar
